@@ -12,11 +12,11 @@ import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.uimanager.ViewManager;
 import com.facebook.react.bridge.JavaScriptModule;
 
-public class RNMailLauncherAppPackage implements ReactPackage {
+public class RNMailAppLauncherAppPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
       List<NativeModule> modules = new ArrayList<>();
-      modules.add(new RNMailLauncherAppModule(reactContext));
+      modules.add(new RNMailAppLauncherAppModule(reactContext));
       return modules;
     }
 
