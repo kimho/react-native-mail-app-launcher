@@ -8,11 +8,8 @@ import com.facebook.react.bridge.ReactMethod;
 
 public class RNMailAppLauncherModule extends ReactContextBaseJavaModule {
 
-  // private final ReactApplicationContext reactContext;
-
   public RNMailAppLauncherModule(ReactApplicationContext reactContext) {
     super(reactContext);
-    // this.reactContext = reactContext;
   }
 
   @Override
