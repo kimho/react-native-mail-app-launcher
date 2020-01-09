@@ -1,5 +1,6 @@
 
-package com.reactlibrary;
+// package com.reactlibrary;
+package net.kimho;
 
 import android.content.Intent;
 import com.facebook.react.bridge.ReactApplicationContext;

@@ -1,5 +1,6 @@
 
-package com.reactlibrary;
+// package com.reactlibrary;
+package net.kimho;
 
 import java.util.Arrays;
 import java.util.Collections;
