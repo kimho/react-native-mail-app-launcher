@@ -1,3 +1,4 @@
 .gitignore
 git_commit_and_push.sh
 android/build
+android/.idea
