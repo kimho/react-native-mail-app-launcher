@@ -1,5 +1,4 @@
 
-// package com.reactlibrary;
 package net.kimho;
 
 import android.content.Intent;
